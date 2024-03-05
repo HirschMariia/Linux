@@ -1,0 +1,8 @@
+   0 cd /tmp
+   1 df -h
+   2 df -h | head -n 3 >> file.txt
+   3 vi file.txt
+   4 ls -l
+   5 chmod 321 file.txt
+   6 ls -l
+   7 history >> history_HW27.01.txt

@@ -1,0 +1,13 @@
+   0 mkdir -p /root/test3/newfolder
+   1 df -h > myfile.txt
+   2 ls -la | head -n 9 >> /root/test3/newfolder/myfile.txt
+   3 wc -m /etc/group
+   4 wc -m /etc/group >> /root/test3/newfolder/myfile.txt
+   5 cat /root/test3/newfolder/myfile.txt
+   6 vi
+   7 tree
+   8 history
+   9 cat myfile.txt
+  10 vi myfile.txt
+  11 vi /root/test3/newfolder/myfile.txt
+  12 history >> history_HW22.01.txt
