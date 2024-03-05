@@ -8,3 +8,4 @@
    7 ls -la | tail -4 >> /opt/task/start.txt
    8 history
    9 history >> history.txt
+changed
